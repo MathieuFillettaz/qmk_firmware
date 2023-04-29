@@ -30,7 +30,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [2] = LAYOUT(
     KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
     KC_NO, KC_INSERT, KC_HOME, KC_PAGE_UP, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,
-    KC_NO, KC_NO, KC_END, KC_PAGE_DOWN, HF_TOGG, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,          KC_NO,
+    KC_NO, KC_NO, KC_END, KC_PAGE_DOWN, HF_TOGG, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO,          QK_RBT,
     KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_PSCR, KC_NO,
     KC_NO, KC_NO, KC_NO,          KC_NO,          KC_NO,                   KC_NO, KC_NO, KC_NO
     ),
